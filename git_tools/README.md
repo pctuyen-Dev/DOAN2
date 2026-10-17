@@ -1,8 +1,6 @@
-# 🛠️ GitHub Manager Tool (DOAN2)
+GitHub Manager Tool
 
 Thư mục công cụ tự động hóa các thao tác Git & GitHub dành cho dự án **DOAN2**.
-
----
 
 ## 🚀 Cách chạy công cụ
 
